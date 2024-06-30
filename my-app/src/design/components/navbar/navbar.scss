@@ -1,0 +1,63 @@
+.nav-style {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.nav-logo-size {
+  height: 40px;
+}
+
+.first-container {
+  padding: 10px 20px;
+}
+
+.second-container {
+  padding: 15px 30px 15px 20px;
+}
+
+.second-container-options {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.search-bar {
+  width: 100% !important;
+  max-width: 1000px !important;
+}
+
+.third-container {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-font {
+  font-size: 12px;
+  color: #000;
+  font-family: "Inter", sans-serif;
+}
+
+.btn-blue {
+  background-color: #0576bb;
+  color: white;
+  width: 50px;
+  border: none;
+}
+
+.nav-bold {
+  font-weight: 600;
+}
+
+.icon-gap .MuiSvgIcon-root {
+  margin: 0 5px;
+}
+
+.blue-color {
+  background-color: #092145e6;
+  color: white;
+}
+.gray-background {
+  background-color: #fafbfc;
+}
+
+.third-category {
+  gap: 25px;
+}
