@@ -17,11 +17,7 @@
 .second-container-options {
   padding: 10px;
   border-radius: 5px;
-}
-
-.search-bar {
-  width: 100% !important;
-  max-width: 1000px !important;
+  cursor: pointer;
 }
 
 .third-container {
@@ -33,6 +29,12 @@
   font-size: 12px;
   color: #000;
   font-family: "Inter", sans-serif;
+}
+
+
+.search-bar-container {
+  flex-grow: 1;
+  max-width: 1000px; /* Adjust this value as needed */
 }
 
 .btn-blue {
